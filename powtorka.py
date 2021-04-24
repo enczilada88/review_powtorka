@@ -4,3 +4,4 @@ print("to już koniec!")
 #czy napewno?
 print("tak")
 #puszczamy
+#powtorka 2
